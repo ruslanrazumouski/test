@@ -27,6 +27,6 @@ class Cat {
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, Java!");
-        System.out.println("Ok1");
+        System.out.println("Ok2");
     }
 }
